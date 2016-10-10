@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tiandu</groupId>
-  <artifactId>tdStore</artifactId>
+  <artifactId>tdPaint</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>tdStore Maven Webapp</name>
@@ -234,7 +234,7 @@
   </dependencies>
   
   <build>
-    <finalName>tdStore</finalName>
+    <finalName>tdPaint</finalName>
     <pluginManagement>
 	    <plugins>
 	        <plugin>
